@@ -1,16 +1,27 @@
-# yemek_uygulamasi
+# 🍽️ Yemek Uygulaması (Meal App)
 
-A new Flutter project.
+## 🇹🇷 Türkçe Açıklama
 
-## Getting Started
+Bu uygulama, kullanıcıların farklı yemek kategorilerinden istedikleri yemekleri seçerek sepet oluşturmasına olanak tanır. Kullanıcı, her yemeğin fiyatını görebilir ve sepete eklediği yemeklerin toplam ücretini kolayca hesaplayabilir. Basit ve kullanıcı dostu bir arayüz ile yemek seçimini kolaylaştırmayı amaçlamaktadır.
 
-This project is a starting point for a Flutter application.
+### Özellikler:
+- Kategorilere göre yemek listesi görüntüleme
+- Sepete yemek ekleme ve çıkarma
+- Anlık toplam fiyat hesaplama
+- Flutter ile geliştirilmiş mobil uygulama
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🇬🇧 English Description
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a small-scale meal ordering app that allows users to browse meals by category, add them to a cart, and view the total cost. The app is designed to provide a simple and user-friendly experience for selecting meals and managing orders.
+
+### Features:
+- View meals by category
+- Add or remove meals from the cart
+- Instantly calculate the total price
+- Built as a mobile app using Flutter
+
+
+
+
